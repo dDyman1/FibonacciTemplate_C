@@ -1,0 +1,12 @@
+C:\Users\dovdm\source\repos\Fibonacci_C\Fibonacci_C\bin\Debug\netcoreapp3.1\Fibonacci_C.exe
+C:\Users\dovdm\source\repos\Fibonacci_C\Fibonacci_C\bin\Debug\netcoreapp3.1\Fibonacci_C.deps.json
+C:\Users\dovdm\source\repos\Fibonacci_C\Fibonacci_C\bin\Debug\netcoreapp3.1\Fibonacci_C.runtimeconfig.json
+C:\Users\dovdm\source\repos\Fibonacci_C\Fibonacci_C\bin\Debug\netcoreapp3.1\Fibonacci_C.runtimeconfig.dev.json
+C:\Users\dovdm\source\repos\Fibonacci_C\Fibonacci_C\bin\Debug\netcoreapp3.1\Fibonacci_C.dll
+C:\Users\dovdm\source\repos\Fibonacci_C\Fibonacci_C\bin\Debug\netcoreapp3.1\Fibonacci_C.pdb
+C:\Users\dovdm\source\repos\Fibonacci_C\Fibonacci_C\obj\Debug\netcoreapp3.1\Fibonacci_C.AssemblyInfoInputs.cache
+C:\Users\dovdm\source\repos\Fibonacci_C\Fibonacci_C\obj\Debug\netcoreapp3.1\Fibonacci_C.AssemblyInfo.cs
+C:\Users\dovdm\source\repos\Fibonacci_C\Fibonacci_C\obj\Debug\netcoreapp3.1\Fibonacci_C.csproj.CoreCompileInputs.cache
+C:\Users\dovdm\source\repos\Fibonacci_C\Fibonacci_C\obj\Debug\netcoreapp3.1\Fibonacci_C.dll
+C:\Users\dovdm\source\repos\Fibonacci_C\Fibonacci_C\obj\Debug\netcoreapp3.1\Fibonacci_C.pdb
+C:\Users\dovdm\source\repos\Fibonacci_C\Fibonacci_C\obj\Debug\netcoreapp3.1\Fibonacci_C.genruntimeconfig.cache

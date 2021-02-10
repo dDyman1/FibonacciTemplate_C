@@ -6,16 +6,12 @@ namespace Fibonacci
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Fib(9));
+            //TODO
         }
 
         public static int Fib(int val)
         {
-            if (val > 1)
-            {
-                return Fib(val - 1) + Fib(val - 2);
-            }
-            return val;
+           //TODO
         }
     }
 }

@@ -1,0 +1,16 @@
+C:\Users\dovdm\source\repos\FibonacciTemplate_C\Fibonacci_C\bin\Debug\net5.0\Fibonacci_C.exe
+C:\Users\dovdm\source\repos\FibonacciTemplate_C\Fibonacci_C\bin\Debug\net5.0\Fibonacci_C.deps.json
+C:\Users\dovdm\source\repos\FibonacciTemplate_C\Fibonacci_C\bin\Debug\net5.0\Fibonacci_C.runtimeconfig.json
+C:\Users\dovdm\source\repos\FibonacciTemplate_C\Fibonacci_C\bin\Debug\net5.0\Fibonacci_C.runtimeconfig.dev.json
+C:\Users\dovdm\source\repos\FibonacciTemplate_C\Fibonacci_C\bin\Debug\net5.0\Fibonacci_C.dll
+C:\Users\dovdm\source\repos\FibonacciTemplate_C\Fibonacci_C\bin\Debug\net5.0\ref\Fibonacci_C.dll
+C:\Users\dovdm\source\repos\FibonacciTemplate_C\Fibonacci_C\bin\Debug\net5.0\Fibonacci_C.pdb
+C:\Users\dovdm\source\repos\FibonacciTemplate_C\Fibonacci_C\obj\Debug\net5.0\Fibonacci_C.csprojAssemblyReference.cache
+C:\Users\dovdm\source\repos\FibonacciTemplate_C\Fibonacci_C\obj\Debug\net5.0\Fibonacci_C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dovdm\source\repos\FibonacciTemplate_C\Fibonacci_C\obj\Debug\net5.0\Fibonacci_C.AssemblyInfoInputs.cache
+C:\Users\dovdm\source\repos\FibonacciTemplate_C\Fibonacci_C\obj\Debug\net5.0\Fibonacci_C.AssemblyInfo.cs
+C:\Users\dovdm\source\repos\FibonacciTemplate_C\Fibonacci_C\obj\Debug\net5.0\Fibonacci_C.csproj.CoreCompileInputs.cache
+C:\Users\dovdm\source\repos\FibonacciTemplate_C\Fibonacci_C\obj\Debug\net5.0\Fibonacci_C.dll
+C:\Users\dovdm\source\repos\FibonacciTemplate_C\Fibonacci_C\obj\Debug\net5.0\ref\Fibonacci_C.dll
+C:\Users\dovdm\source\repos\FibonacciTemplate_C\Fibonacci_C\obj\Debug\net5.0\Fibonacci_C.pdb
+C:\Users\dovdm\source\repos\FibonacciTemplate_C\Fibonacci_C\obj\Debug\net5.0\Fibonacci_C.genruntimeconfig.cache
